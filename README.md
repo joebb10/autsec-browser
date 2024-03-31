@@ -5,15 +5,15 @@ This Browser is a privacy-focused web browser built with PyQt5 and PyQtWebEngine
 
 # Key Features
 
-Privacy and Security: Autsec Browser focuses on protecting user privacy and security with features like ad blocking and HTTPS enforcement.
+- Privacy and Security: Autsec Browser focuses on protecting user privacy and security with features like ad blocking and HTTPS enforcement.
 
-Tabbed Browsing: Easily navigate between multiple web pages using tabbed browsing.
+- Tabbed Browsing: Easily navigate between multiple web pages using tabbed browsing.
 
-Ad Blocking: Block intrusive ads for a cleaner and safer browsing experience.
+- Ad Blocking: Block intrusive ads for a cleaner and safer browsing experience.
 
-HTTPS Enforcement: Automatically enforce HTTPS for enhanced security while browsing.
+- HTTPS Enforcement: Automatically enforce HTTPS for enhanced security while browsing.
 
-Sleek Interface: Enjoy a user-friendly and intuitive interface for seamless browsing.
+- Sleek Interface: Enjoy a user-friendly and intuitive interface for seamless browsing.
 
 # How to Use
 
